@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abu97Abdullah.
 - 👀 I’m interested in doing small projects for fun.
-- 🌱 I’m currently learning ... Stuff.
+- 🌱 I’m currently learning... Stuff.
 - 📫 How to reach me: aabdullah@ryerson.ca
 
 <!---
